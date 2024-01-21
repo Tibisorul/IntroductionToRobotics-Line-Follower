@@ -29,6 +29,8 @@ Design and build a line follower robot using an Arduino Uno and various componen
 - Zip-ties
   <br/>
  ![image](https://github.com/Tibisorul/IntroductionToRobotics-Line-Follower/assets/127014075/5e1a0dd4-e760-4cce-9964-b6ec9c968c92)
+![image](https://github.com/Tibisorul/IntroductionToRobotics-Line-Follower/assets/127014075/4323721e-7c71-4807-87c1-7f163fe5e56d)
+
 
 
 
